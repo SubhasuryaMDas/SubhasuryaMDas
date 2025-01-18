@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
-![Excited GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
-
+[![Excited GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3CMViGyHZFs8GJT5jxfvmk&ust=1737277481850000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD-t5T1_ooDFQAAAAAdAAAAABAE)
 Hi there! I’m passionate about coding and love sharing my projects.
 
 
