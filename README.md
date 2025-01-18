@@ -1,3 +1,10 @@
+# Welcome to My Profile! 👋
+
+![Excited GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
+Hi there! I’m passionate about coding and love sharing my projects.
+
+
 💫 About Me:
 
 👋 Hi, I'm Subhasury Mohan Das– a passionate Full Stack Developer. 🎓 Graduated with a 7.8 CGPA. 💻 Experienced in building web applications with Node.js, JavaScript, React.js, HTML, CSS, Express.js, and Tailwind CSS. 🌱 Currently learning advanced full-stack development. 🤝 Open to collaborating on innovative projects. 📫 How to reach me: [Your Email Address or LinkedIn Profile]
